@@ -110,5 +110,4 @@ The project compares multiple regression approaches to determine the best-perfor
 
 ## 👩‍💻 Author
 
-Habiba Furany  
-AI & Machine Learning Enthusiast
+- [Habiba Furany](https://github.com/habiba-furany)  
